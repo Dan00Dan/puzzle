@@ -29,4 +29,4 @@ python astar_puzzle_solver.py
 5. Chương trình sẽ kiểm tra xem bài toán có thể giải được hay không. Nếu có, nó sẽ bắt đầu tìm đường đi ngắn nhất và hiển thị chi tiết các bước.
 
 ## Tác giả
-- **Trần Thị Như Quỳnh – 2374802010428 Khoa Công Nghệ Thông Tin, Trường Đại học Văn Lang – 2025**
+- **Trần Thị Như Quỳnh – 2374802010428 Khoa Công Nghệ Thông Tin, Trường Đại học Văn Lang**
