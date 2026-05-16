@@ -27,3 +27,6 @@ python astar_puzzle_solver.py
 3. Nhập lần lượt từng dòng cho **trạng thái bắt đầu** (dùng số `0` cho ô trống). Các số được phân tách bằng khoảng trắng.
 4. Nhập lần lượt từng dòng cho **trạng thái kết thúc** (đích).
 5. Chương trình sẽ kiểm tra xem bài toán có thể giải được hay không. Nếu có, nó sẽ bắt đầu tìm đường đi ngắn nhất và hiển thị chi tiết các bước.
+
+## Tác giả
+- **Dan00Dan**
